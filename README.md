@@ -6,8 +6,10 @@ A mobile Quran audio player built with Flutter. Streams recitations of all 114 S
 
 ## Screenshots
 
-> Add screenshots here after running the app.  
-> Suggested views: Home list · Search results · Full player · Error state
+| Home | Search | Player |
+|:---:|:---:|:---:|
+| ![Home](assets/screenshots/screenshot_home.png) | ![Search](assets/screenshots/screenshot_search.png) | ![Player](assets/screenshots/screenshot_player.png) |
+| Browse all 114 Surahs | Real-time search | Full playback controls |
 
 ---
 
